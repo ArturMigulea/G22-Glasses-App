@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-/GNG1103 Glasses App/[Ll]ibrary/
-/GNG1103 Glasses App/[Tt]emp/
-/GNG1103 Glasses App/[Oo]bj/
-/GNG1103 Glasses App/[Bb]uild/
-/GNG1103 Glasses App/[Bb]uilds/
-/GNG1103 Glasses App/[Ll]ogs/
-/GNG1103 Glasses App/[Uu]ser[Ss]ettings/
+GNG1103-Glasses-App/[Ll]ibrary/
+GNG1103-Glasses-App/[Tt]emp/
+GNG1103-Glasses-App/[Oo]bj/
+GNG1103-Glasses-App/[Bb]uild/
+GNG1103-Glasses-App/[Bb]uilds/
+GNG1103-Glasses-App/[Ll]ogs/
+GNG1103-Glasses-App/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
